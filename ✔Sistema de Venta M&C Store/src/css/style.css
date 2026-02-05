@@ -1,0 +1,42 @@
+/*--shop--*/
+.new-box {
+	right:10px;
+}
+
+
+
+
+.shop_desc{
+	border:3px solid #000000;
+	padding:5%;
+	width: 100%;
+	height: 50%;
+	background: white;
+}
+
+.shop_desc h3 a{
+	color: #333;
+	font-size: 16px;
+	font-weight: 600;
+	text-decoration: none;
+}
+.shop_desc h3 a:hover{
+	color:#666;
+}
+.shop_desc p{
+	color:#555;
+	font-size:0.8125em;
+	line-height:1.8em;
+	margin-bottom:10px;
+}
+
+span.actual {
+	color: #7DB122;
+	font-size: 2em;
+	color:#000
+}
+ul.buttons{
+	list-style: none;
+	padding: 0;
+	margin-top: 10px;
+}

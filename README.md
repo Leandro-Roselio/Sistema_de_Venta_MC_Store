@@ -1,0 +1,10 @@
+# Sistema-de-venta-Dota
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/sistema%20de%20venta.png)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/panel%20de%20administracion.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/nueva%20venta.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/configuracion.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/clientes.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/ventas.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/productos.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/usarios.jpg)
+![php](https://github.com/DannyCrisostomo/Desarrollo_Back-End/blob/main/%E2%9C%94Sistema%20de%20Venta%20M%26C%20Store/Sistema%20de%20ventas/proximamente.jpg)
